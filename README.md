@@ -1,0 +1,1 @@
+This is a simple HTML webpage created in relation to Odin Project
