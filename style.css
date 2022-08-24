@@ -1,16 +1,15 @@
 body {
-    background-color: lightcoral;
-}
-h1 {
-    text-align: center;
+    background-color:#EDA297;
 }
 
-li {
-    color: peachpuff;
-    background-color: rgb(32, 211, 211);
+li,h1,p {
+    color: #171A21;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    text-align: right;
+}
+
+h1 {
+    text-align: center;
 }
 
 img {
@@ -19,4 +18,5 @@ img {
     height: auto;
     margin-left: auto;
     margin-right: auto;
+    border: 10px solid #BBB09B;
 }
